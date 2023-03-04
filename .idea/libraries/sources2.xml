@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="sources2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-gridmix-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-streaming-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-distcp-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-datajoin-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-archives-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-archives-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-streaming-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-sls-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-distcp-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-datajoin-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-gridmix-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-extras-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-sls-2.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-extras-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-rumen-2.7.6-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop/tools/sources/hadoop-rumen-2.7.6-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
